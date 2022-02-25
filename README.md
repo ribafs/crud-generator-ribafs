@@ -30,7 +30,7 @@ This fork have changes to appzcoder/crud-generator:
 ## Em português
 [LEIAME.md](LEIAME.md)
 ```
-composer require ribafs/crud-generator --dev
+composer require ribafs/laravel-crud-generator --dev
 ```
 
 ## Documentation
